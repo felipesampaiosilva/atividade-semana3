@@ -6,9 +6,10 @@ No tutorial da AWS, é criada uma instância EC2 que utiliza a VPC padrão, sub-
 
 
 <h2> Passos Seguidos para Execução: </h2>
-1. Criação da Instância EC2
 
-2. Criação de um RDS para salvar as informações no EC2 (junto com a conexão ao EC2)
+1. Criação da Instância EC2;
+
+2. Criação de um RDS para salvar as informações no EC2 (junto com a conexão ao EC2);
    
-3. Configuração do Front end na máquina da AWS
+3. Configuração do Front end na máquina da AWS;
 
